@@ -37,5 +37,11 @@ contributions:
       url: "https://ivan-denisovich-py.github.io/link-tree/"
     url: "https://openprocessing.org/sketch/1294491"
     source: "https://openprocessing.org/sketch/1294491#code"
+      - title: "Bacterial Growth Simulation"
+    author:
+      name: "Monique GOBRIAL"
+      url: "https://editor.p5js.org/MGOBRIAL/sketches/FHkLdwJBw"
+    url: "https://youtu.be/EwXxNdZZI2s"
+    source: "https://editor.p5js.org/MGOBRIAL/sketches/FHkLdwJBw"
 ---
 In this viewer submitted coding challenge, I program a cellular mitosis simulation in p5.js.
