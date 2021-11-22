@@ -66,5 +66,11 @@ contributions:
       url: "https://denisovichdev.github.io/link-tree/"
     video_id: BD4Y-88ryvE
     source: "https://github.com/DenisovichDev/kaleidoscope-simulation"
+  - title: "20211120 MG Music Kaleidoscope-V03-jsonSimplified"
+    author:
+      name: "Monique GOBROIAL"
+      url: "https://editor.p5js.org/MGOBRIAL/sketches/FQwjn3njO"
+    video_id: 20211120 MG Music Kaleidoscope-V03-jsonSimplified
+    source: "https://youtu.be/L1x_qcV33Og"
 ---
 Happy holidays! #SupportP5! This video shows an attempt to make a snowflake from a "kaleidoscope painting" effect.
